@@ -1,0 +1,9 @@
+/.conda
+/.vscode
+/data
+/drafts
+/figures
+# /figures/*.pdf
+# /figures/*.svg
+# /figures/*.eps
+/notebooks
